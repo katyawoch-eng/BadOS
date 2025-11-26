@@ -3,14 +3,15 @@ ENTER
 GUI l
 ENTER
 GUI l
-STRING i <3 spam
+STRING i ahhh
 TAB
 ENTER
 GUI l
 ENTER
 GUI l
-REPEAT 2
+REPEAT 100000
 STRING i <3 spam
 TAB
 ENTER
+
 REM Press the dpad to spam someone
