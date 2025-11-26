@@ -9,8 +9,9 @@ ENTER
 GUI l
 ENTER
 GUI l
-REPEAT 2
+REPEAT 20
 STRING i <3 spam
 TAB
 ENTER
+
 REM Press the dpad to spam someone
